@@ -2,11 +2,13 @@
 
 Tasks and Todo List.
 
-Recreate flutter's default project directories (Like Android, iOS and Web)
+Recreate flutter's default project directories (Like Android, iOS and Web):
 
 ```
-flutter create .
+flutter create .gi
 ```
+
+
 
 ## Getting Started
 

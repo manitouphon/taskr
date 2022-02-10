@@ -1,6 +1,12 @@
 # taskr
 
-A new Flutter project.
+Tasks and Todo List.
+
+Recreate flutter's default project directories (Like Android, iOS and Web)
+
+```
+flutter create .
+```
 
 ## Getting Started
 
